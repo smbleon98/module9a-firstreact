@@ -11,8 +11,8 @@ This is a React app built with Vite. It contains a profile component styled with
 ## Challenges
 I encountered several issues, not when rendering the Profile card but when creating the second component, a Skills card, which I described above.
 Additional challenges I faced: 
-- Adding a div section for my second component, which threw errors because, as I would learn, you can have only one root element, yet I had two 'simultaneous' elements (<div>component 1</div> <div>component 2</div>). I ultimately put a larger <div></div> around these two sections, where each section was dedicated to each component type.
-- Using mixed bold / non-bold within the same line in order to set apart header text from detail text. I learned that I had to wrap the bold text in <strong></strong>.
+- Adding a div section for my second component, which threw errors because, as I would learn, you can have only one root element, yet I had two 'simultaneous' elements. I ultimately put a larger div around these two sections, where each section was dedicated to each component type.
+- Using mixed bold / non-bold within the same line in order to set apart header text from detail text. I learned that I had to wrap the bold text in 'strong'.
 
 
 ## Screenshot
