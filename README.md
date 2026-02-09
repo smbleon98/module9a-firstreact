@@ -1,4 +1,5 @@
-# Module 9B - Custom Profile Component
+# Module 9A - First React Component
+
 
 ## Description
 This is a React app built with Vite. It contains a profile component styled with inline CSS.
